@@ -12,6 +12,7 @@ Link to download our dataset at [Drive](https://drive.google.com/drive/folders/1
 
 AbscessHeNe Dataset is structured as follows.
 
+<div align="left">
 ```
 AbscessHeNe/
 ├── train_images/
