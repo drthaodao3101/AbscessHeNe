@@ -15,25 +15,25 @@ AbscessHeNe Dataset is structured as follows.
 ```AbscessHeNe
 ├── train_images
 |   ├── 1a87a4ac_slice174.png
-|   └── 1a87a4ac_slice175.png
+|   ├── 1a87a4ac_slice175.png
 |    ...
 |   ├── fbe02ced_slice796.png
 |   └── fbe02ced_slice797.png
 ├── train_masks
 |   ├── 1a87a4ac_slice174.png
-|   └── 1a87a4ac_slice175.png
+|   ├── 1a87a4ac_slice175.png
 |    ...
 |   ├── fbe02ced_slice796.png
 |   └── fbe02ced_slice797.png
 ├── test_images
 |   ├── 3ef6c51e_slice155.png
-|   └── 3ef6c51e_slice156.png
+|   ├── 3ef6c51e_slice156.png
 |    ...
 |   ├── f569c463_slice355.png
 |   └── f569c463_slice356.png
 ├── test_masks
 |   ├── 3ef6c51e_slice155.png
-|   └── 3ef6c51e_slice156.png
+|   ├── 3ef6c51e_slice156.png
 |    ...
 |   ├── f569c463_slice355.png
 |   └── f569c463_slice356.png
