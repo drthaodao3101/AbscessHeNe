@@ -1,5 +1,5 @@
 # AbscessHeNe
-### Abscess Segmentation on Head & Neck CT Scan: A Benchmark Dataset and Baselines
+### AbscessHeNe: A Benchmark Dataset for Abscess Segmentation in Head and Neck CT Imaging
 
 ## Overview
 <img src="process.png" />
