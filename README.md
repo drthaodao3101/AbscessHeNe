@@ -36,8 +36,7 @@ AbscessHeNe
 |   ├── f569c463_slice355.png
 |   └── f569c463_slice356.png
 ├── abscesshene_train.csv
-├── abscesshene_test.csv
-└── dataset.json
+└── abscesshene_test.csv
 ```
 
 **Key Features:**
