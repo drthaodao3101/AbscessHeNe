@@ -47,3 +47,12 @@ AbscessHeNe
 - `test_masks`: Corresponding test set masks
 - CSV files contain clinical metadata
 - `dataset.json` provides comprehensive dataset statistics
+
+```bibtex
+ @article{abscesshene,
+  title={Toward Content-based Indexing and Retrieval of Head and Neck CT with Abscess Segmentation},
+  author={Thao Thi Phuong Dao, Tan-Cong Nguyen, Trong-Le Do, Truong Hoang Viet, Nguyen Chi Thanh, Huynh Nguyen Thuan, Do Vo Cong Nguyen, Minh-Khoi Pham, Mai-Khiem Tran, Viet-Tham Huynh, Trong-Thuan Nguyen, Trung-Nghia Le, Vo Thanh Toan, Tam V. Nguyen, Minh-Triet Tran, Thanh Dinh Le},
+  Conference={the Special Session "MAICBR: Multimedia AI in Modern CB Retrieval: Challenges and Applications" in the 2025 IEEE International Conference on Content-Based Multimedia Indexing (IEEE CBMI) conference},
+  year={2025}
+}
+```
