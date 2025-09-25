@@ -45,7 +45,6 @@ AbscessHeNe
 - `test_images`: Test set CT slices
 - `test_masks`: Corresponding test set masks
 - CSV files contain clinical metadata
-- `dataset.json` provides comprehensive dataset statistics
 
 ```bibtex
  @article{abscesshene,
